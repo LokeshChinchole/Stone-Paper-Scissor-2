@@ -1,0 +1,1 @@
+A web-based rendition of the classic game "Stone Paper Scissors", built with HTML, CSS, and JavaScript. Play against the computer, track scores, and enjoy a responsive design for seamless gameplay on any device.
